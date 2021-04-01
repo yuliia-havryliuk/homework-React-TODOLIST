@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/homework-React-TODOLIST/static/css/main.ba74fdec.chunk.css",
+    "main.js": "/homework-React-TODOLIST/static/js/main.d1411031.chunk.js",
+    "main.js.map": "/homework-React-TODOLIST/static/js/main.d1411031.chunk.js.map",
+    "runtime-main.js": "/homework-React-TODOLIST/static/js/runtime-main.80cbc712.js",
+    "runtime-main.js.map": "/homework-React-TODOLIST/static/js/runtime-main.80cbc712.js.map",
+    "static/js/2.7932002e.chunk.js": "/homework-React-TODOLIST/static/js/2.7932002e.chunk.js",
+    "static/js/2.7932002e.chunk.js.map": "/homework-React-TODOLIST/static/js/2.7932002e.chunk.js.map",
+    "index.html": "/homework-React-TODOLIST/index.html",
+    "static/css/main.ba74fdec.chunk.css.map": "/homework-React-TODOLIST/static/css/main.ba74fdec.chunk.css.map",
+    "static/js/2.7932002e.chunk.js.LICENSE.txt": "/homework-React-TODOLIST/static/js/2.7932002e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80cbc712.js",
+    "static/js/2.7932002e.chunk.js",
+    "static/css/main.ba74fdec.chunk.css",
+    "static/js/main.d1411031.chunk.js"
+  ]
+}
