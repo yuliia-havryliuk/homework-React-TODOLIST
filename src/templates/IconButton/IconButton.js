@@ -14,8 +14,6 @@ const IconButton = ({
       title={title}
       {...allyProps}
     >
-      {' '}
-      Click me
       {children}
     </button>
   );
